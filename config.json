@@ -12,8 +12,8 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": " ᴍᴀᴍᴜɴ ʙʙ'ᴢ 🪄💌",
-  "prefix": "-",
+  "nickNameBot": " 💥—͞Eꪝ𝚁⸙Ꮪᴜ֟፝ᴍᴏɴ ⚡️ 🪄💌",
+  "prefix": ".",
   "noPrefix": {
     "enable": true,
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
@@ -23,8 +23,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-   "61595489399118",
-   "61595057655929"
+   "61596490725477",
+   "61586505998957"
   ],
   "reactUnsend": {
     "enable": true,
